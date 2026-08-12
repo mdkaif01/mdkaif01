@@ -150,7 +150,7 @@ I'm especially interested in how **software, AI and infrastructure come together
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdkaif01/mdkaif01/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/mdkaif01/mdkaif01/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
